@@ -2,8 +2,7 @@
  * IDENTIFICAÇÃO DO ALUNO
  * ========================================================================
  * Nome: Washington Matheus Almeida Xavier
- * Matrícula: 252024622
- * Projeto: Jogo da Forca / Palavras Cruzadas (WMLETRAS)
+ * Projeto: Palavras Cruzadas (WMLETRAS)
  * ========================================================================
  * NOTAS DE IMPLEMENTAÇÃO E EXECUÇÃO
  * ========================================================================
