@@ -1,13 +1,12 @@
- * ======================================================================================
+ * ========================================================================
  * IDENTIFICAÇÃO DO ALUNO
- * ======================================================================================
+ * ========================================================================
  * Nome: Washington Matheus Almeida Xavier
  * Matrícula: 252024622
  * Projeto: Jogo da Forca / Palavras Cruzadas (WMLETRAS)
- *
- * ======================================================================================
+ * ========================================================================
  * NOTAS DE IMPLEMENTAÇÃO E EXECUÇÃO
- * ======================================================================================
+ * ========================================================================
  * 1. CONFIGURAÇÃO DE TELA: 
  * Para uma melhor experiência visual, verifique a largura do seu terminal e ajuste
  * a constante #define LARGURA_TELA (linha 4) conforme necessário para centralização.
@@ -16,9 +15,9 @@
  * Foi implementado um código secreto no menu de configurações que concede pontuação
  * extra, servindo como demonstração de manipulação de estados do jogo.
  *
- * ======================================================================================
+ * ========================================================================
  * REFERÊNCIAS E FONTES DE PESQUISA
- * ======================================================================================
+ * ========================================================================
  * Para o desenvolvimento deste código, foram consultadas as seguintes fontes para
  * resolução de problemas específicos:
  *
@@ -30,5 +29,5 @@
  *
  * - Estilização do Terminal (Cores e Códigos ANSI):
  * Fonte: YouTube - https://youtu.be/Hl-7xMl7bn0?si=vyftMrx6yjXdfLHp
- * ======================================================================================
+ * =========================================================================
  */
